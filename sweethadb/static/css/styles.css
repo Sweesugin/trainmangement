@@ -1,0 +1,7 @@
+/* Ensuring the image covers the full screen */
+.fullscreen-bg {
+  position: relative;
+  width: 900%;
+  height: 90vh;  /* Full viewport height */
+  overflow: hidden;  /* Hide any overflow */
+}
